@@ -1,0 +1,44 @@
+
+#welcome{
+    background: linear-gradient(#e303fc 0%, #0b03fc 100%);
+    padding: 10px;
+}
+#welcome h1{
+    font-size: 40px;
+    color:aliceblue;
+    font-family: cursive;
+}
+#welcome h2{
+    font-size: 40px;
+    color:black;
+    font-family:fantasy;
+}
+  
+#welcome span{
+    font-size: 40px;
+    color:black;
+    font-family:fantasy;
+}
+
+
+#bio {
+    font-family:monospace;
+    padding: 30px;
+    }
+#videos iframe{
+    width: 80%;
+    padding: 20px;
+    }
+@media (max-width:767px){
+    .video1{height: 300px;
+        width: 100% !important;
+        padding: 5px !important; }
+    .video2{height: 300px;
+        width: 100% !important;
+        padding: 5px !important; }
+
+.work_iframe{
+    width: 100% !important;
+    margin: 0px !important;}
+
+
